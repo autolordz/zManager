@@ -54,11 +54,6 @@ import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.TextView;
 import android.widget.Toast;
 
-/**实现视频播放**/
-/*This work comes from Dreamer丶Team. The main programmer is LinShaoHan.
- * QQ:752280466   Welcome to join with us.
- */
-
 public class VideoPlayerActivity extends Activity {
 
 	private final static String TAG = "VideoPlayerActivity";

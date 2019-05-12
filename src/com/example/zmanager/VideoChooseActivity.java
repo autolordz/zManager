@@ -20,10 +20,6 @@ import android.widget.TextView;
 
 import com.example.zmanager.VideoPlayerActivity.MovieInfo;
 
-/**选择播放视频文件**/
-/*This work comes from Dreamer丶Team. The main programmer is LinShaoHan.
- * QQ:752280466   Welcome to join with us.
- */
 public class VideoChooseActivity extends Activity{
 
 	//private static int height , width;
